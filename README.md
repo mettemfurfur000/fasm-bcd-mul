@@ -13,7 +13,7 @@ in fact therre also implementation of BCD multiplication in C, just to compare t
 
 do
 ```bash
-sudo apt install fasm gcc make
+sudo apt install fasm build-essential git
 git clone https://github.com/mettemfurfur000/fasm-bcd-mul.git
 cd fasm-bcd-mul
 make
