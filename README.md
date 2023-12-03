@@ -7,6 +7,8 @@ what is bcd number? - https://en.wikipedia.org/wiki/Binary-coded_decimal
 
 in my case i using 8421 BCD code, i think
 
+in fact therre also implementation of BCD multiplication in C, just to compare the speed and correctness of the algorithm written in FASM (spoiter: it slower, you cannot beat compiler)
+
 # building
 
 do
