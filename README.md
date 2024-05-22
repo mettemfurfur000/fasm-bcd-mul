@@ -20,6 +20,8 @@ make
 ```
 and thats it
 
+if things doesn compile u could also do `sudo apt installgcc-multilib`
+
 # contributing
 
 do pull request or whatever
